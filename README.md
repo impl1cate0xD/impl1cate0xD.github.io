@@ -1,4 +1,5 @@
 # analysis : impl1cate's Simple Knowledge-Base
+<br><br>
 
 ## What does this blog contain?
 - Tutorials
@@ -8,8 +9,12 @@
 - Articles
 - and other thoughts
 
+<br><br>
+
 ## Why a blog?
 I started this blog for three reasons - solidifying what I learn through repetition, hoping to help other learners along the way, and as an archive / showcase for what I have learnt.
+
+<br><br>
 
 ## How to use
 
@@ -20,6 +25,8 @@ The three main categories are :
 - Rooms / CTFs walkthroughs : The primary reason I'm creating my blog is to repeat such information that I learnt
 - Other stuff : Will be further subdivided into intuitive categories
 
-My socials :
-[1.1]: http://i.imgur.com/tXSoThF.png Twitter : @impl1cate
+<br><br>
+
+My socials : <br>
+[Twitter : @impl1cate](https://twitter.com/impl1cate)
 LinkedIn
